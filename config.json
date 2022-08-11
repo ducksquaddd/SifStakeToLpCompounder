@@ -1,0 +1,7 @@
+{
+  "lcd_endpoint": "https://api.sifchain.finance",
+  "rpc_endpoint": "https://rpc.sifchain.finance",
+  "sifvaloper": "sifvaloper1hg76w7v29yzprrhyuwe8y3ny89jnqmf93x6a4z",
+  "pool": "uatom",
+  "seed": "SEED PHRASE"
+}
